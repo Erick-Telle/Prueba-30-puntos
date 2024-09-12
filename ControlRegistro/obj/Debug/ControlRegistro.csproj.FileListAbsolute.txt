@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\bin\Debug\ControlRegistro.exe.config
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\bin\Debug\ControlRegistro.exe
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\bin\Debug\ControlRegistro.pdb
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\obj\Debug\ControlRegistro.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\obj\Debug\ControlRegistro.Form1.resources
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\obj\Debug\ControlRegistro.Properties.Resources.resources
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\obj\Debug\ControlRegistro.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\obj\Debug\ControlRegistro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\obj\Debug\ControlRegistro.exe
+C:\Users\User\source\repos\ControlRegistro\ControlRegistro\obj\Debug\ControlRegistro.pdb
