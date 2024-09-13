@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|solutionrelative:almacenardatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|c:\\users\\user\\documents\\prueba 30pts\\almacenardatos\\almacenardatos\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|solutionrelative:almacenardatos\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\almacenardatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|solutionrelative:almacenardatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|c:\\users\\user\\documents\\prueba 30pts\\almacenardatos\\almacenardatos\\models\\personamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\almacenardatos\\models\\personamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|solutionrelative:almacenardatos\\models\\personamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|c:\\users\\user\\documents\\prueba 30pts\\almacenardatos\\almacenardatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|solutionrelative:almacenardatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\almacenardatos\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774B8C2F-C1B4-45B5-9E96-61B6E08A6025}|AlmacenarDatos\\AlmacenarDatos.csproj|solutionrelative:almacenardatos\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\AlmacenarDatos\\Form1.cs",
+              "RelativeDocumentMoniker": "AlmacenarDatos\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\AlmacenarDatos\\Form1.cs",
+              "RelativeToolTip": "AlmacenarDatos\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:06:39.518Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -47,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\AlmacenarDatos\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "AlmacenarDatos\\Models\\Persona.cs",
@@ -55,25 +68,11 @@
               "RelativeToolTip": "AlmacenarDatos\\Models\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T22:25:31.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T22:25:31.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\AlmacenarDatos\\Form1.cs",
-              "RelativeDocumentMoniker": "AlmacenarDatos\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\AlmacenarDatos\\Form1.cs",
-              "RelativeToolTip": "AlmacenarDatos\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB4AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T22:06:39.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Prueba 30pts\\AlmacenarDatos\\AlmacenarDatos\\Form1.cs",
               "RelativeDocumentMoniker": "AlmacenarDatos\\Form1.cs",

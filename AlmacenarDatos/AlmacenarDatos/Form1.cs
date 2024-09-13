@@ -62,7 +62,6 @@ namespace AlmacenarDatos
             Persona persona = new Persona(nombres, apellidos, fechaNacimiento);
             personaManager.AgregarPersona(persona);
 
-            // Agregar un breakpoint aquí para verificar que se esté agregando la persona correctamente
             Debug.WriteLine("Persona agregada: " + persona.Nombres + " " + persona.Apellidos);
 
             txtNombres.Clear();
