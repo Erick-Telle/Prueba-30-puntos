@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\bin\Debug\AlmacenarDatos.exe.config
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\bin\Debug\AlmacenarDatos.exe
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\bin\Debug\AlmacenarDatos.pdb
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\obj\Debug\AlmacenarDatos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\obj\Debug\AlmacenarDatos.Form1.resources
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\obj\Debug\AlmacenarDatos.Properties.Resources.resources
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\obj\Debug\AlmacenarDatos.csproj.GenerateResource.cache
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\obj\Debug\AlmacenarDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\obj\Debug\AlmacenarDatos.exe
+C:\Users\User\Documents\Prueba 30pts\AlmacenarDatos\AlmacenarDatos\obj\Debug\AlmacenarDatos.pdb
